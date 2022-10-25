@@ -1,5 +1,3 @@
-# a131_final_project_ar.py
-
 import turtle as tt
 import random as rng
 
